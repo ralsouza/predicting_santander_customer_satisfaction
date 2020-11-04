@@ -1,5 +1,4 @@
 # Predicting Santander Customer Satisfaction
-Predicting the satisfaction level of Santander customers using Apache Spark (PySpark).
 
 Customer satisfaction is a key measure of success. Unhappy customers don't stick around. What's more, unhappy customers rarely voice their dissatisfaction before leaving.
 
